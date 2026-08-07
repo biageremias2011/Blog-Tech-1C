@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, Helvetica, sans-serif; /* Fonte universal herdada por todo o site "/
+
+
+
+
+margin: 0;
+/* Remove margens padrão do navegador /
+padding: 0;
+header {
+
+
+
+
+
+
+
+background-color: #b4cbc5; / cor de fundo /
+color: #013005; / cor da fonte /
+text-align: center; /* centraliza o texto horizontalmente */
+max-width: 800px; / define a largura máxima que o elemento pode ter */
+margin: 0 auto; /* centraliza o bloco inteiro na tela */
+padding: 16px; /* espaçamento interno entre a borda e conteúdo /
+
+}
+
+Quimica E Ti
+
+
+
+
+color: #17048f;
+Emuracao Fisica Ano C
+
+
+ main
+background-color: #e2e7cc;
+color: #013005;
+
+Matematicias Resol Prociera
+M
+
+max-width: 800px;
+margin: 0 auto;
+
+Bia Dig Doom Progin
+padding: 16px;
+
+E
+27 article (
+
+Geogrthun Ало С. Мисла
+display: flex;
+
+
+2margin-bottom: 60px; / Empurra o artigo de baixo, criando o espaço "/
+Етисосто нancecah An
+
+ing(
+
+
+height: 150px; / define a altura fixa da imagen */width: 150px; / define a largura fixa da imagem /
+
+Croudania E Creamo 17 An
+border: 2px solid #17848f; /* adiciona uma borda sõlida de 2px na cor azul/roxa. */
+
+Matematica Aro C Man
+
+M
+
+
+display: block; transforma a imagen em um bloco para aceitar margens verticais e quebra de linha /
+margin: 0 auto; /* centraliza a imagem horizontalmente na tela */
+align-self: center;
+-Lingiza liiglise-Manne
+
+
+ande uitt
+E
+Biologe Amo Mathe
+
+ .artigo-autor {
+ font-weight: bold; /* deixa o texto en negrito */
