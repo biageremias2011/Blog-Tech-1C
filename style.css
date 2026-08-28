@@ -16,12 +16,12 @@ header {
 }
 
 h1{
-    color: #b1a6fa;
+    color: #0bb9ab;
 }
 
 main {
-    background-color: rgb(65, 48, 75);
-    color: #ad6cf7;
+    background-color: rgb(52, 48, 85);
+    color: #6cf7f0;
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
